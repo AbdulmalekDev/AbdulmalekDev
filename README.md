@@ -35,7 +35,7 @@
 ---
 
 ### 🌟 Featured Projects
-- [🛒 E-commerce Dashboard](https://github.com/abdulmalekhatemm/ecommerce-dashboard) – Full admin dashboard with dark/light mode  
+- [🛒 E-commerce Dashboard](https://fullstack-ecommerce-dashboardabboud.netlify.app) – Full admin dashboard with dark/light mode  
 - [🎮 Hangman Game](https://github.com/abdulmalekhatemm/-Hangman-Game) – Classic word guessing game  
 - [🌐 Portfolio Website](https://github.com/abdulmalekhatemm/portfolio) – Personal portfolio built with React & Tailwind  
 
