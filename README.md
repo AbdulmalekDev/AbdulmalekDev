@@ -37,7 +37,7 @@
 ### 🌟 Featured Projects
  - [🛒 E-commerce Dashboard](https://fullstack-ecommerce-dashboardabboud.netlify.app) – Full admin dashboard with dark/light mode 
 - [🎮 Memory Game](https://projectmemorygameabboud.netlify.app) – Classic word guessing game  
-- [🌐 Portfolio Website](https://github.com/abdulmalekhatemm/portfolio) – Personal portfolio built with React & Tailwind  
+- [🌐 Portfolio Website](https://shiny-babka-764024.netlify.app) – Personal portfolio built with React & Tailwind  
 
 ---
 
