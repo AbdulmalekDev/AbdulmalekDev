@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abdulmalek Hatem</h1>
-<h3 align="center">💻 MERN Stack Developer | 🚀 Passionate Learner | 🌍 Open Source Contributor</h3>
+<h3 align="center">💻 MERN Stack Developer | Full-Stack Web Developer | AI & Automation Enthusiast</h3>
 
 ---
 
