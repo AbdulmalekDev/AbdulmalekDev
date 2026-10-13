@@ -34,7 +34,7 @@
 ---
 
 ### 🌟 Featured Projects
- - [🛒 Full-Stack E-commerce Platform](https://full-stack-ecommerces-last-now-abbou.netlify.app) – A full-stack e-commerce platform  dark/light mode 
+ - [🛒 Full-Stack E-commerce Platform](https://full-stack-ecommerces.netlify.app/) – A full-stack e-commerce platform  dark/light mode 
  - [🛒 E-commerce Dashboard](https://fullstack-ecommerce-dashboardabboud.netlify.app) – Full admin dashboard with dark/light mode 
 - [🎮 Memory Game](https://projectmemorygameabboud.netlify.app) – Classic word guessing game  
 - [🌐 Portfolio Website](https://abdulmalekhatemdev.netlify.app/) – Personal portfolio built with React & Tailwind  
