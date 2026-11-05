@@ -46,7 +46,7 @@
   <a href="mailto:abdulmalek.hatem.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/abdulmalekhatemm">
+  <a href="https://github.com/AbdulmalekDev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abdulmalek-qasem-hatem-50bb20298">
@@ -61,7 +61,7 @@
   <a href="https://instagram.com/ab8x_m">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/bdalmlkalhmydy.955605">
+  <a href="https://www.facebook.com/profile.php?id=61595053733648">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://abdulmalekhatemdev.netlify.app/">
